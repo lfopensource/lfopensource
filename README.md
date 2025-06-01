@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lingling.
 - 👀 I’m interested in LLM inference/serving and photonic compiler
-- 🌱 I’m currently focused on quantization and attention engineering.
+- 🌱 I’m currently focused on model quantization and parallelism.
 - 📫 How to reach me: linglingfan@stanford.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a pianist.
