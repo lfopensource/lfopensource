@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lingling.
+- 👋 Hi, I’m Ayumi.
 - 👀 I’m interested in LLM inference/serving and photonic compiler
 - 🌱 I’m currently focused on model quantization and parallelism.
 - 📫 How to reach me: linglingfan@stanford.edu
