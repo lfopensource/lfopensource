@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayumi.
-- 👀 I’m interested in LLM inference/serving and photonic compiler
-- 🌱 I’m currently focused on model quantization and parallelism.
+- 👀 I’m interested in LLM inference/serving with quantization and parallelism
+- 🌱 I’m currently focused on long-context vide and image undersanding/reasoning.
 - 📫 How to reach me: linglingfan@stanford.edu
 - 😄 Pronouns: She/Her
