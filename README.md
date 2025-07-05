@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Ayumi.
+- 👋 Hi, I’m Lingling Fan.
+- 🎓 Stanford PhD in EE, previous: Google DeepMind, Meta AI Research.
 - 👀 I’m interested in LLM inference/serving with quantization and parallelism
 - 🌱 I’m currently focused on long-context vide and image undersanding/reasoning.
 - 📫 How to reach me: linglingfan@stanford.edu
