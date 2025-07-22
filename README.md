@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lingling Fan.
-- 🎓 Stanford PhD in EE, previous: Google DeepMind, Meta AI Research.
+- 🎓 Stanford PhD in EE. Experience: Google DeepMind, Meta AI Research.
 - 👀 I’m interested in LLM inference/serving with quantization and parallelism
 - 🌱 I’m currently focused on long-context video and image understanding/reasoning.
 - 📫 How to reach me: linglingfan@stanford.edu
