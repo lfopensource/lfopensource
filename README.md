@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lingling.
+- 👋 Hi
 - 🎓 Stanford PhD in EE. Experience: Google DeepMind, Meta AI Research.
 - 👀 I’m interested in LLM inference/serving with quantization and parallelism
 - 🌱 I’m currently focused on long-context video and image understanding/reasoning.
