@@ -1,5 +1,5 @@
 - 👋 Hi
-- 🎓 Stanford PhD in EE. Experience: Google DeepMind, Meta AI Research.
+- 🎓 Stanford PhD in EE. Bay Area Tech Companies.
 - 👀 I’m interested in LLM inference/serving with quantization and parallelism
 - 🌱 I’m currently focused on long-context video and image understanding/reasoning.
 - 📫 How to reach me: linglingfan@stanford.edu
