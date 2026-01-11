@@ -1,6 +1,6 @@
 - 👋 Hi
 - 🎓 Stanford PhD in EE. Bay Area Tech.
 - 👀 I’m interested in LLM inference/serving with quantization and parallelism
-- 🌱 I’m currently focused on long-context video and image understanding/reasoning.
+- 🌱 I’m currently focused on CUDA kernels, model deployment, model post-training, reasoning RL, efficient inference.
 - 📫 How to reach me: linglingfan@stanford.edu
 - 😄 Pronouns: She/Her
