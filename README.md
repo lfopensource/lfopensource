@@ -1,6 +1,8 @@
-- 👋 Hi
-- 🎓 Stanford PhD in EE. Bay Area Tech.
-- 👀 I’m interested in LLM inference/serving with quantization and parallelism
-- 🌱 I’m currently focused on CUDA kernels, model deployment, model post-training, reasoning RL, efficient inference.
-- 📫 How to reach me: linglingfan.cnn@gmail.com
+- 🎓 **Ph.D. in Electrical Engineering** from **Stanford University**.
+- 👀 I’m interested in **LLM Inference & Serving**, with a focus on **Quantization** and **Parallelism** (e.g., Parallel Decoding, Speculative Decoding).
+- 🌱 Currently focused on:
+  - **CUDA Kernel Optimization**
+  - **Model Deployment & Serving Infrastructure** (Paged KV Cache, Continuous Batching)
+  - **Post-training** (RLHF, Distillation, Flow-matching)
+- 📫 How to reach me: [linglingfan.cnn@gmail.com](mailto:linglingfan.cnn@gmail.com)
 - 😄 Pronouns: She/Her
